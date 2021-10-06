@@ -1,0 +1,17 @@
+#Header{
+  height:100px;
+	text-align:center;
+  background-color:Red;
+  padding-top: 20px;
+}
+
+.T1{
+  color: white;
+}
+
+#body{
+  height:500px;
+  width: 500px;
+  float:left;
+  background-color:Green;
+}
